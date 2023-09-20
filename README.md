@@ -1,2 +1,4 @@
 # math_game
-This is a math game to see how many questions one can answer correctly in 60 seconds
+Are you a mathlete?
+Lets actually see how many questions you can answer in 60 seconds
+Have fun
